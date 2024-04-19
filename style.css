@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Cinzel', sans-serif;
+  text-align: center;
+  background-image: url(https://i.ibb.co/x7SnvsH/background-image.png)  ;
+  height: 100vh;
+  width: 100vw;
+  background-position: 30% 45%;
+  background-size: cover;
+}
+.title{
+  font-size: 64px;
+  font-family: 'Cinzel', sans-serif;
+  margin-top: 200px;
+}
+p{
+  font-family:'Inter', sans-serif;
+  font-size: 20px;
+  margin-bottom: 72px;
+}
+span{
+  color: #DB2777;
+}
+.btn{
+  align-content: center;
+  padding: 16px 32px;
+  background-color: #DB2777;
+  color: #FFFFFF;
+  font-size: 20px;
+  font-family: 'Cinzel', sans-serif;
+  border-radius: 80px;
+  border-style: none;
+}
+.linkes{
+  margin: 0 48px;
+  color: #151718;
+  font-size: 20px;
+  font-family: 'Cinzel', sans-serif;
+}
